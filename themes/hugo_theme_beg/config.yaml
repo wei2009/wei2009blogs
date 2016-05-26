@@ -1,16 +1,16 @@
 BaseUrl: "http://example.com"
-LanguageCode: "en-us"
+LanguageCode: "zh-cn"
 Title: "Beg"
 
 Params:
-  Author: "Your name."
+  Author: "Wesley"
   DateForm: "Mon, Jan 2, 2006"
   GoogleAnalyticsUserID: "Your ID."
-  Facebook: "Your ID."
+  Facebook: "snowwindli@hotmail.com"
   Twitter: "Your ID."
-  Github: "Your ID."
+  Github: "wei2009.li@gmail.com"
   ShowRelatedPost: True
-  Disqus: "Your Disqus."
+  Disqus: "wesleywli"
   SyntaxHighlightTheme: "solarized_dark.min.css"
 
 Indexes:
