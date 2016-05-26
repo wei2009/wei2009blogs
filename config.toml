@@ -1,7 +1,6 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-languageCode = "en-us"
+baseurl = "http://wei2009.github.io/"
+languageCode = "zh-cn"
 title = "Wesley的Blog"
 
 [Params]
   Author = "wesleywli"
-  disqusShortname = wesleywli
