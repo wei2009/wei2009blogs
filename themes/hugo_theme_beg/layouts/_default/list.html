@@ -2,7 +2,7 @@
 <div class="list">
 
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-9">
       <header class="page-title">{{ .Title }}</header>
 
       {{ range (.Paginate .Data.Pages).Pages }}
@@ -10,7 +10,7 @@
       {{ end }}
       {{ partial "pagination.html" . }}
     </div>
-    <div class="col-md-4">
+    <div class="col-md-3">
       {{ partial "sidebar.html" . }}
     </div>
   </div>

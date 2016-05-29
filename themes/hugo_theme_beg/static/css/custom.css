@@ -1,1 +1,7 @@
 /* Please override here. */
+article.single .article-body {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  padding: 0 1rem;
+}

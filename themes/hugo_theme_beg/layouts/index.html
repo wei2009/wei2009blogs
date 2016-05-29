@@ -2,13 +2,13 @@
 <div class="index">
 
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-9">
       {{ range .Paginator.Pages }}
       {{ .Render "li" }}
       {{ end }}
       {{ partial "pagination.html" . }}
     </div>
-    <div class="col-md-4">
+    <div class="col-md-3">
       {{ partial "sidebar.html" . }}
     </div>
   </div>
